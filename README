@@ -11,7 +11,7 @@ Example: textmate /Sites/example.com/ - open project from "/Sites/example.com/" 
 Example: textmate ~/Documents/notes.txt
 
 Use #2: Type file or folder name and choose action "Open with Textmate"
-Example: notes.txt =&gt; Open with Textmate
+Example: notes.txt => Open with Textmate
 
 More Extensions
 For more wonderful extensions, themes, and more for Alfred, visit the Alfred Support Site: http://support.alfredapp.com/
