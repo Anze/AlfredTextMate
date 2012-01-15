@@ -1,15 +1,22 @@
-About This Extension
+<strong>About This Extension</strong>
 
-Simple extension that helps to quickly open file or project folder with TextMate. Can be used with Alfred navigation as action. Mind that this extension works only with Alfred Powerpack.
+Simple extension that helps to quickly open file or project folder with <a href="http://macromates.com/">TextMate</a> with <a href="http://alfredapp.com/">Alfred</a>. Can be used with Alfred navigation as action. Mind that extensions works only with Alfred <a href="http://www.alfredapp.com/powerpack">Powerpack</a>.
 
-How To Use This Extension
+This extension can be updated via <a href="http://jdfwarrior.tumblr.com/updater">Extension Updater for Alfred</a>.
 
-Use #1: textmate <input file name or path>
-Example: textmate /Sites/example.com/ – open project from "/Sites/example.com/" folder
+<strong>How To Use This Extension</strong>
+
+Use #1: textmate &lt;input file name or path&gt;
+Example: textmate /Sites/example.com/ - open project from "/Sites/example.com/" folder
 Example: textmate ~/Documents/notes.txt
 
 Use #2: Type file or folder name and choose action "Open with Textmate"
-Example: notes.txt => Open with Textmate
+Example: notes.txt =&gt; Open with Textmate
 
-More Extensions
-For more wonderful extensions, themes, and more for Alfred, visit the Alfred Support Site: http://support.alfredapp.com/
+<strong>Download</strong>
+
+<a href="https://raw.github.com/anze/AlfredTextMate/master/Open%20with%20TextMate.alfredextension">Download "Open with Textmate"</a>
+<a href="https://github.com/anze/AlfredTextMate">Code on GitHub</a>
+
+<strong>More Extensions</strong>
+For more wonderful extensions, themes, and more for Alfred, visit the <a href="http://support.alfredapp.com/">Alfred Support Site</a>.
